@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a36aee5d5f44dec4f59ca095",
+  "owner": "kayuvao",
+  "repo": "page-7b3de491bbdf193da526ad07",
+  "title": "免费clash订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7b3de491bbdf193da526ad07",
+      "a": "矢矧网络",
+      "b": "免费clash订阅",
+      "entity": "矢矧网络",
+      "brand": "免费clash订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cead0174261b4820c01919babb66eb1f60e6576058e5f986989c28f2d9bccaa6",
+      "content": {
+        "primary_entity": "矢矧网络",
+        "keyword1": "矢矧网络",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_DESCRIPTION": "，矢矧网络提供基础版、旗舰版与团队版三档套餐，月付与年付灵活切换，旗舰版每月 300GB 流量、支持 5 台设备同时在线，适合有多设备需求的用户；团队版每月 1000GB 流量、支持 20 台设备，适合小型团队协作使用。",
+          "AI_HERO_SUBTITLE": "矢矧网络套餐与设备选择",
+          "AI_HERO_INTRO": "矢矧网络围绕套餐梯度、设备数量与订阅周期设计服务方案，基础版适配日常轻度使用，旗舰版覆盖多设备流媒体与游戏加速，团队版面向多终端协作场景。",
+          "AI_VISUAL_TITLE": "矢矧网络三档套餐怎么选",
+          "AI_HIGHLIGHT_1": "旗舰版支持 5 台设备在线",
+          "AI_HIGHLIGHT_2": "团队版支持 20 台设备",
+          "AI_HIGHLIGHT_3": "年付方案降低月均支出",
+          "AI_FEATURES_TITLE": "矢矧网络特点",
+          "AI_FEATURES_INTRO": "从套餐梯度到设备适配，矢矧网络围绕实际使用场景组织服务。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按用量选择不影响后续升级。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按常用终端数量挑选合适档位。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付两种周期可选，年付方案如基础版 ¥150/年，适合确定长期使用的用户。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型挑选对应客户端，安装后导入订阅配置即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "矢矧网络提供三档套餐，流量、设备数和线路权益不同，可按使用强度对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "三步完成矢矧网络服务配置，先选套餐再核对设备再导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量预算与常用设备数量，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看订阅导入方式和设备数量是否符合所选套餐。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端文档完成订阅导入，按提示保存配置后即可进行连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求对比三档套餐，确定后完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "矢矧网络是一款面向跨境访问与加速的网络服务工具，通过订阅方式在客户端中导入配置，实现网络访问优化。",
+          "AI_FAQ_ANSWER_2": "在购买页面选择基础版、旗舰版或团队版套餐，完成支付后获取订阅链接，用于在客户端中导入。",
+          "AI_FAQ_ANSWER_3": "购买后可查看各客户端导入订阅的说明文档，Clash、Shadowrocket、v2rayN 等可在其对应配置文件中导入订阅链接。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可在同一订阅下多设备登录使用。",
+          "AI_FAQ_ANSWER_5": "建议根据每月的流量需求和上网设备数量选择。基础版适合轻度使用，旗舰版兼顾性能与设备数，团队版适合多人共享或企业场景。",
+          "AI_FAQ_QUESTION_1": "矢矧网络是什么？",
+          "AI_FAQ_QUESTION_2": "如何购买和开始使用矢矧网络？",
+          "AI_FAQ_QUESTION_3": "矢矧网络支持哪些客户端？",
+          "AI_FAQ_QUESTION_4": "矢矧网络支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_5": "矢矧网络不同套餐怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5e048bd685a3887bb85ba4d012c13bcbb8c191600120d57f441c5f1e1266edfe",
+    "sitemap.xml": "305703008aa05fdd09f9963bd9675f20de74b0e2053e9b45b9eb5849acf4fde2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b9fee54d2e21bb6164ee9cc1f2ccca757feccf93e1c4beace33c317aecbbc890"
+}
